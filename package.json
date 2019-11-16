@@ -1,0 +1,23 @@
+{
+  "name": "tests-zaffo",
+  "version": "1.0.0",
+  "description": "for demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pogix3m/tests-zaffo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pogix3m/tests-zaffo/issues"
+  },
+  "homepage": "https://github.com/Pogix3m/tests-zaffo#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "wsse": "^4.0.0"
+  }
+}
