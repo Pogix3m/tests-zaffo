@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Pogix3m/tests-zaffo#readme",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "wsse": "^4.0.0"
   }
 }
